@@ -1,0 +1,1 @@
+[{"name":"Bla","autor":"Pavlo Sidorenko","genre":"fantasy","count":57925,"id":1},{"name":"Bla2","autor":"Viktor Doot","genre":"detective","count":-28786,"id":2}]
